@@ -1,6 +1,6 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
-### Name: Anish S
-### Reg no: 212224250003
+### Name: Isaachenryrufuson S
+### Reg no: 212224250007
 ## AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
